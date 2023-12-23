@@ -18,7 +18,7 @@ Main Purpose is for testing when working with firewall while testing the black l
 1. **Clone the Repository**
 
 ```
-https://github.com/Whitecat18/Reqwest-Prober-Rust.git
+git clone https://github.com/Whitecat18/Reqwest-Prober-Rust.git
 cd Reqwest-Prober-Rust
 ```
 
