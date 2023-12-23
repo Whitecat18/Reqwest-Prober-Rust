@@ -1,5 +1,5 @@
 [package]
-name = "Reqwest-Prober-Rust"
+name = "reqwest_prober_rust"
 version = "0.1.0"
 edition = "2021"
 
