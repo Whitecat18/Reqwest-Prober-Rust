@@ -1,8 +1,8 @@
-## Request Prober Using Rust . 
+# Request Prober Using Rust . 
 
 Simple Rust Codes to Demonstrate Request and Response using Tokio Library and using various methods to Request and get the status code . 
 
-Main Purpose is for testing when working with firewall while testing the black list.
+I created this program to test the Blacklisting on my firewall project and for Load balancing in firewall . It can be used for many other use cases . 
 
 ## Features
 
