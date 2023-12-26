@@ -1,4 +1,6 @@
-//
+// THIS IS MY OLD main.rs , Here you can see the progress of this reqwest prober from scratch , trying varioud crates to make the program fast , flexible and without making it panic! .
+
+
 // use std::thread;
 // use std::sync::mpsc;
 //
