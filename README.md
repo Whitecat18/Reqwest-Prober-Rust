@@ -27,6 +27,29 @@ cd Reqwest-Prober-Rust
 ```
 cargo run -- url_file.txt 
 ```
+## Bug Fixes and Errors 
+
+### For Debian Based Users Ubuntu/Kali 
+
+<details>
+  <summary><b>Detailed Error Info</b></summary>
+  The Following Error Occures while testing on Kali Linux .<br>
+  
+  ```
+  run pkg_config fail: 
+  pkg-config exited with status code 1
+  > PKG_CONFIG_ALLOW_SYSTEM_CFLAGS=1 pkg-config --libs --cflags openssl
+  ```
+
+</details>
+
+If you face an openssl error install the following dependics and try again ! 
+
+
+
+```
+sudo apt install libssl-dev pkg-config libudev-dev
+```
 
 ## Advantages
 
