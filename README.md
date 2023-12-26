@@ -27,6 +27,12 @@ cd Reqwest-Prober-Rust
 ```
 cargo run -- url_file.txt 
 ```
+## Demo Video 
+
+[reqwest_prober-demo.webm](https://github.com/Whitecat18/Reqwest-Prober-Rust/assets/96696929/ca777b66-94e5-43f7-a1f3-858aad563f9d)
+
+
+
 ## Bug Fixes and Errors 
 
 ### For Debian Based Users Ubuntu/Kali 
