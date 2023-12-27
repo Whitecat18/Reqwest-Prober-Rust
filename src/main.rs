@@ -63,7 +63,7 @@ async fn main() {
         std::process::exit(1);
     }
 
-    let results = futures::stream::iter(urls)
+    let _results = futures::stream::iter(urls)
         .map(|url| async move {
             match handle_request(&url).await {
                 Ok((msg, status)) => {
